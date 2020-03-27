@@ -1,2 +1,2 @@
 # addfriend
-Add friend model, in which a user can add another users as friend
+Recursive add friend model, in which a user can add another users as friend
